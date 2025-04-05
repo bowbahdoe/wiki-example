@@ -1,0 +1,1 @@
+--output-directory lib --use-module-names pkg:maven/dev.mccue/jdk-httpserver@2024.11.18 pkg:maven/com.samskivert/jmustache@1.16 pkg:maven/dev.mccue/urlparameters@2024.01.05

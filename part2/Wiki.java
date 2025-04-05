@@ -1,5 +1,6 @@
 import module jdk.httpserver;
 import module dev.mccue.jdk.httpserver;
+import module com.samskivert.jmustache;
 
 record Page(String title, byte[] body) {
     void save() throws IOException {
